@@ -1,0 +1,7 @@
+tempfile.txt
+log/*.log
+log/*.log[0-9]
+tours/videos/
+*.zip
+*.gz
+!tours/videos/tours_*.mp4
